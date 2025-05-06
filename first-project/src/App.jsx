@@ -52,6 +52,19 @@ function App() {
   );
 }
 
+
+// let arr = [10, 20, 30]
+// mutliply every element of array with 2
+
+let resultant = arr.map((currElement)=>{
+  // console.log(currElement)
+  return currElement = currElement * 2
+})
+
+console.log(resultant)
+// [20, 40, 60]
+
+
 // function display(message){
 //   console.log(message)
 // }
