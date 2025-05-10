@@ -1,6 +1,6 @@
 import React from 'react'
 import { useState } from 'react';
-
+import './index.css'
 function App() {
 
   // let [stateVariable, setterFunction] = useState(initialValue)
